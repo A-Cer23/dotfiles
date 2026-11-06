@@ -5,7 +5,7 @@ Terminal-only dev setup: **Ghostty + Zellij + LazyVim**, on macOS or Ubuntu (inc
 ## Install on a new machine
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<you>/dotfiles/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/A-Cer23/dotfiles/main/install.sh | bash
 ```
 
 Then restart your shell and run `gh auth login`.
