@@ -1,0 +1,16 @@
+# Ghostty config — https://ghostty.org/docs/config
+# Ghostty ships JetBrains Mono with Nerd Font icons, so no font install needed.
+
+font-size = 14
+window-padding-x = 8
+window-padding-y = 6
+cursor-style = block
+mouse-hide-while-typing = true
+copy-on-select = clipboard
+confirm-close-surface = false
+
+# Let Option act as Alt on macOS (needed for Alt keybinds in Zellij/Neovim)
+macos-option-as-alt = true
+
+# List themes with: ghostty +list-themes
+# theme = <name>
